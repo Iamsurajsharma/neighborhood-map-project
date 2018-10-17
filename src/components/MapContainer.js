@@ -1,6 +1,6 @@
 
 import React, { Component } from 'react';
-import MyMapComponent  from './MarkerAndInfo'
+import MarkerInfo  from './MarkerAndInfo'
 
 
 class MapContainer extends Component {
@@ -8,7 +8,7 @@ class MapContainer extends Component {
     
     return (
       <div>
-        <MyMapComponent
+        <MarkerInfo
             {...this.props}
             googleMapURL="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyDvGl2gxQejfksz54wcgHsOe438sGR4Fzc"
             loadingElement={<div style={{ height: `100%` }} />}

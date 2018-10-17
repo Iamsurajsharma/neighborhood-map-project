@@ -3,14 +3,8 @@
 A Single Page App made by using create-react-app, Google Maps API and Foursquare API showcasing the neighbordhood has to offer.
 > Shows the Metro Station of Delhi 
 
-> Search Metro stations and last result animate
+> Search Metro stations and last result will animate
 
-
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
 
 ## Installation
 

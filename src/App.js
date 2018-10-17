@@ -62,8 +62,6 @@ class App extends Component {
   handleListItem=(venue)=>{
     const marker = this.state.markers.find(marker=>marker.id===venue.id)
     this.MarkerClick(marker)
-    console.log(venue)
-  
   }
 
   render() { 
