@@ -32,4 +32,4 @@ Clicking on the Marker open an InfoWindow :
 ### ServiceWorker
 
 The Application also uses ServiceWorker which works in the build mode only.
-To test ServiceWorker, you must make a prdouction build first. 
+To test ServiceWorker, you must make a production build first. 
